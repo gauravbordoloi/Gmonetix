@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_splash_screen"
+    android:background="@color/colorPrimary"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gmonetix.gmonetix.SplashScreen">
+    <RelativeLayout
+        android:layout_margin="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/image1"
+            android:src="@mipmap/ic_launcher"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/tv_gmonetix"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:textColor="@color/black"
+            android:layout_toRightOf="@+id/image1"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:layout_centerVertical="true"
+            android:text="@string/app_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_developers_environment"
+        android:layout_gravity="bottom|center"
+        android:textColor="@color/black"
+        android:layout_marginBottom="60dp"
+        android:singleLine="true"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:text="Developer's Environment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_gravity="bottom|end"
+        android:id="@+id/tv_copyright"
+        android:layout_margin="5dp"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:text="copyright@2017"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ProgressBar
+        android:layout_gravity="center"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/progress_bar_splash_screen" />
+
+</FrameLayout>

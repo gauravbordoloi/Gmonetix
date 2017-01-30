@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "680452812276",
+    "firebase_url": "https://gmonetix-532a7.firebaseio.com",
+    "project_id": "gmonetix-532a7",
+    "storage_bucket": "gmonetix-532a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680452812276:android:16e44b8ca4191abf",
+        "android_client_info": {
+          "package_name": "com.gmonetix.gmonetix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680452812276-9tb403dnfh9at9k6s2qqs2m0e6452gij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmonetix.gmonetix",
+            "certificate_hash": "DDB1489F3E39900F4685AE10E9704AAAA2B6747C"
+          }
+        },
+        {
+          "client_id": "680452812276-9gdtkmmqrag1ms12fqk1dvcbe7oqrtib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSA8KzNFzePmVJyIRmTJeKX8mahBz2Pjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680452812276-9gdtkmmqrag1ms12fqk1dvcbe7oqrtib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

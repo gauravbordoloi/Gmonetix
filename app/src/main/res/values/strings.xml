@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Gmonetix</string>
+    <string name="title_activity_home">Home</string>
+
+    <!-- fragments name -->
+    <string name="recent_posts">Recent</string>
+    <string name="categories">Categories</string>
+    <string name="queries">Queries!</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- menu items -->
+    <string name="action_settings">Settings</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="about_us">About Us</string>
+    <string name="visit_us">Visit Us</string>
+    <string name="facebook">Facebook</string>
+    <string name="youtube">Youtube</string>
+    <string name="website">Website</string>
+
+    <string name="toast_network_error">Network connectivity is bad! Please try again</string>
+    <string name="permission">Please enable permissions</string>
+
+</resources>
