@@ -6,7 +6,6 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AbsListView;
 import android.widget.AdapterView;
 import android.widget.ListView;
 import com.gmonetix.gmonetix.helper.CommonAdapter;
@@ -15,14 +14,12 @@ import com.gmonetix.gmonetix.model.JsonDataModel;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
-import java.util.ArrayList;
 import java.util.List;
 
 public class Recent extends Fragment implements AdapterView.OnItemClickListener {
 
     private ListView listView;
     public List<JsonDataModel> jsonDataList = SplashScreen.JsonDatas;
-    public List<JsonDataModel> dataItems ;
     public static final String POST_ID = "id";
     public static final String POST_TITLE = "post_title";
     public static final String POST_URL = "url";

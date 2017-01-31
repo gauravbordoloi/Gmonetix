@@ -21,12 +21,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_7416ba98bbd20ae0caa2bf5b0f6763ed81d1ceb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Gmonetix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
         <dex dex="C:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_03bdc9303f109278b5fcbc28778ddb879e64fa53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_790b10fa386d091e883d13bb55fcd604ac201293.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,12 +57,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_dc3c158f34249794a208726390069754d834b35f.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Gmonetix\app\libs\volley.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
         <dex dex="C:\Gmonetix\app\build\intermediates\pre-dexed\debug\volley_5537058b78a4f3226f5bb80d1f585201e781372c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_cfad08bbc86f0082334dbea9db3007b76ea763b5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,12 +93,48 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\Gmonetix\app\libs\gson-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\gson-2.2.2_01b156149d8abfea348f1cc2c29e5a639ca51ea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_d8e52477c4acc83aac221cf62dadf214159fd8a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Gmonetix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
         <dex dex="C:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_ad1f24a5ddabdf5f82f76d68ad58f9e581257576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.github.clans-fab-1.6.4_1f65b6b7a0956838c7bcdc79fc132d805328a2f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_54dbafb16e50819a9201658f7b991e7a34f77ced.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,12 +147,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_618ac6b010225862d7daa12fbc3d838dd2e77f63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_f6ce023f4d4999cee9672ef1d04e4eeb316b972c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Gmonetix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
         <dex dex="C:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_8ab53f7739bad74bf2a0ff405d974706b0a14171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_8950a64183abeb7bba1aa6ed368d041f9eb801c2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,12 +237,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\Gmonetix\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_3693bc3bd605c4b62bef094f2f51e3c1e0a61740.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_d2704efb70f417129ff39aaca33fc054c8a4b646.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Gmonetix\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
         <dex dex="C:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_e56fa39ad0d880379d967daf6f0c756de40b51aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_942b46bea76752f589ea8096d95d49c089269b9b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,12 +282,48 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd9ae2cebc3fde4111dafcaae0af4229bfb35b3e">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_af5cd4215aa08baa62e322f450dc07cbf8141f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Gmonetix\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
         <dex dex="C:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.github.clans-fab-1.6.4_2b805bf9b042e1a97a61e402c3efdc4e05cdbe86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_3343220eb7cb118e14ab4fafeea0659eab368bed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ba7d57cb2a09ed5b118ce6dcebdf96318398afc">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\instant-run_54a5af4b5efe0a1be8bcdcbde4baf1467dd8ffdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_ebe2242879afe6a8a58e5a86af6b87d6f9cee0d3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -174,12 +336,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_bac88cfc82fb25062c8d77280f051e750e392790.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Gmonetix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="4b17463c814bdc562fb0392fa3494063623a0904">
         <dex dex="C:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_50d9133677257c5a2729c19bf4a68538160502cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\volley_f0ca1011cffe67b282251dc6b60282782734a4c9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -192,12 +372,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_15cd941302358c59afbcb55cc2c2fb94e5f102a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Gmonetix\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="57c568ce7d5574e94d9e37daa853951fa45cb5db">
         <dex dex="C:\Gmonetix\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_22c8fb1aafcdf9d3477ac5448cadebadd6c978a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_d0e59f278c1d74a70e69156d24dc61f741cb4f2a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -210,12 +408,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_9c4acc7e85ac1ead556bb5d11d156b94b96b1178.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Gmonetix\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
         <dex dex="C:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_6d3c6456602f0bddad8d5d45b6cd92bbaa00a161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_e8e2a6a5fb769c970f31eecc1f2d3712d9ee497c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -234,6 +450,15 @@
         revision="25.0.2"
         sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
         <dex dex="C:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_cdba9b28195e8323cbf1c9a1bff0c2869ea186c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gmonetix\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\Gmonetix\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_390bf7ee35ac727743e5c04a1a82c22008e85d0a.jar" />
     </item>
 
 </items>

@@ -59,7 +59,6 @@ public abstract class RuntimePermission extends Activity{
         }
         if((grantResults.length>0) && PackageManager.PERMISSION_GRANTED == permissionCheck){
             onPermissionGranted(requestCode);
-            //startActivity(new Intent(getApplicationContext(), MainActivity.class));
         } else {
             //Display message wehn contain some dangerous permission not accpeted
             Snackbar.make(findViewById(android.R.id.content),mErrorString.get(requestCode), Snackbar.LENGTH_INDEFINITE).setAction("ENABLE", new View.OnClickListener() {

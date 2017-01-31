@@ -7,6 +7,8 @@ public class JsonDataModel {
     private String title_rendered;
     private String featured_media_url;
 
+
+
     public String getFeaturedMediaUrl() {
         return featured_media_url;
     }

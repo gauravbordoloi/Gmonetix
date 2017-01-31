@@ -13,7 +13,7 @@ public class PermissionTransferToHomeActivity extends RuntimePermission {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
-
+        // In the below string array whatever permission you need just write it one after another.
         requestAppPermission(new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE,Manifest.permission.WAKE_LOCK},R.string.permission,REQUEST_PERMISSION);
     }
 
