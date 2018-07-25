@@ -1,3 +1,5 @@
+DEPRECATED
+
 # Gmonetix app
 
 This is an official app of www.gmonetix.com (Gmonetix.com is an wordpress site and this app gets the site's post to a list)
